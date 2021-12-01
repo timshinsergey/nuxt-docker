@@ -5,14 +5,18 @@
 ### Build Setup
 
 Build in the project root directory
+
 <image-name> and <version> are arbitrary fields
+
 -f - Dockerfile name and path
+
 . - context location
 ```bash
 $ docker build -f ./Dockerfile --tag <image-name>:<version> .
 ```
 
 <image-name> and <version> that were specified above
+
 <container-name> is an arbitrary field
 ```bash
 $ docker run --name <container-name> -p 3000:3000 <image-name>:<version>
