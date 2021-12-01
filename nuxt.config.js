@@ -2,6 +2,10 @@ import colors from 'vuetify/es5/util/colors'
 
 export default {
   // Global page headers: https://go.nuxtjs.dev/config-head
+  server: {
+    host: '0.0.0.0',
+    port: 5001
+  },
   head: {
     titleTemplate: '%s - nuxt-docker',
     title: 'nuxt-docker',
