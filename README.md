@@ -13,7 +13,7 @@ $ docker-compose up -d
 
 ## Settings
 
-![Settings](./github/nuxt-settings.jpg)
+![Settings](./.github/nuxt-settings.jpg)
 
 ### Build Setup
 
