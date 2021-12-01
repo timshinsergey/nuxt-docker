@@ -11,6 +11,10 @@ $ docker-compose up -d
 
 ## Nuxt
 
+## Settings
+
+![Settings](./github/nuxt-settings.jpg)
+
 ### Build Setup
 
 ```bash
